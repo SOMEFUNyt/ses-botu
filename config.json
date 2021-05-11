@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [1],
+        "ACTIVITY_TEXT": "memati",
+        "GUILD_ID": "833751673595756544",
+        "VOICE_CHANNEL": "833751674032095272",
+        "MIN_STAFF_ROLE": "833996847135457300"
+    },
+    "FILES": {
+        "WELCOME": "default_files/hoşgeldınız.mp3",
+        "STAFF": "default_files/yetkili.mp3"
+    },
+    "TOKEN": "ODQxMzgzMzk2NjEyNzY3NzQ1.YJl9WQ.WdQNQMbv-Dn4sPfAyIvsKcfbqEo"
+}
